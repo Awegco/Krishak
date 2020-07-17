@@ -34,10 +34,11 @@ Straw of the previously infected crop heaped nearby
 ### 3. Displaying a crop with obious damges in paddy(Automatically by krishak app)
        It will display what will happen if no treament done on crop. 
 	   It will also display how much Rupees farmer will lost month by month .
-![Alt text](images/2.Image_of_damage_paddy.jpg?raw=true "Rice Blast")
-       First month Loss in Rupees :- 56000
+	   First month Loss in Rupees :- 56000
 	   Second month Loss in Rupees :- 158000
 	   Third month Loss in Rupees :- 246000
+![Alt text](images/2.Image_of_damage_paddy.jpg?raw=true "Rice Blast")
+       
 
 ### 3. confirmation of disease by Farmer using image selector
 ![Alt text](images/3.confirmation_of_disease_By_Farmer.png?raw=true "Rice Blast")
@@ -46,8 +47,8 @@ Straw of the previously infected crop heaped nearby
 ![Alt text](images/4.Explaination_of_Diseas.jpg?raw=true "Rice Blast")
 
 ### 4. Treatment for disease
-![Alt text](images/5.treament_1.png?raw=true "Rice Blast")
-![Alt text](images/6.treament_2.png?raw=true "Rice Blast")
+![Alt text](images/5.treament_1.png)
+![Alt text](images/6.treament_2.png)
 
 	Preventive measures:
 
