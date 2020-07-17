@@ -13,17 +13,51 @@ How this works
 ![Alt text](images/1.Diffrent_Rice_Diseases_decetion_in_a_Area_using_Sentinel2.png?raw=true "Satelite image analysis")
 
 ### 2. Collect Weather and climate conditions
+
 Low night temperature (22 to 28°C)
+
 High relative humidity (> 95%)
+
 New deposit
+
 Extended leaf wetness period (>10 hrs)
+
 Cloudy and drizzling weather
+
 Soil fertility (High N)
+
 Degree of host susceptibility
+
 Straw of the previously infected crop heaped nearby 
 
-### 3. Displaying a crop with obious damges in paddy
-![Alt text](images/Image_of_damage_paddy.jpg?raw=true "Rice Blast")
+
+### 3. Displaying a crop with obious damges in paddy(Automatically by krishak app)
+       It will display what will happen if no treament done on crop. 
+	   It will also display how much Rupees farmer will lost month by month .
+![Alt text](images/2.Image_of_damage_paddy.jpg?raw=true "Rice Blast")
+       First month Loss in Rupees :- 56000
+	   Second month Loss in Rupees :- 158000
+	   Third month Loss in Rupees :- 246000
 
 ### 3. confirmation of disease by Farmer using image selector
 ![Alt text](images/3.confirmation_of_disease_By_Farmer.png?raw=true "Rice Blast")
+
+### 3. explaination of disease
+![Alt text](images/4.Explaination_of_Diseas.jpg?raw=true "Rice Blast")
+
+### 4. Treatment for disease
+![Alt text](images/5.treament_1.png?raw=true "Rice Blast")
+![Alt text](images/6.treament_2.png?raw=true "Rice Blast")
+
+	Preventive measures:
+
+	Use of resistant varieties like Gauthami, IR-36, IR-64, Parijatha, Rasi, Sasyashree, Salivahana, Simhapuri, Srinivas, Tikkana
+	Burn previously blast affected straw and stubbles
+	Use of disease free seeds
+	Use of balanced rates of nutrition based on soil test- split applications of nitrogen  (Excessive N use can promote excessive luxuriant crop growth which increases the relative humidity and leaf wetness of the crop canopy. This can lead to increased infection).
+
+	Biological control:
+
+	Seed treatment with Pseudomonas fluorescence (10g / 1 of water) for 30 min.
+	Seedling root dip treatment with Pseudomonas fluorescence (4g / 1 of water) for 20 min (   Videos-1,2,3,4, and 5 )
+	Foliar spray of Pseudomonas fluorescence (4g / 1 of water) at 20-25 days after transplanting.
